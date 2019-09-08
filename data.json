@@ -1,0 +1,33 @@
+{
+    "data": {
+        "projects": [
+            {
+                "id" : 0,
+                "project_name": "Interactive Form",
+                "description": "An Interactive form that dynamically responds based on user interaction",
+                "technologies": "HTML5, CSS3, Javascrript(ES6), Jquery, Regular Expression(RegEx)",
+                "live_link": "https://trrstnn.github.io/Interactive-Form/",
+                "github_link": "https://github.com/trrstnn/Interactive-Form" ,
+                "image_urls": ["/static/img/Project-2-landing.png","/static/img/Project-2-img1.png","/static/img/Project-2-img2.png"]
+            },
+            {
+                "id" : 1,
+                "project_name": "Decipher Game" ,
+                "description": "A game that lets you guess each letter in a phrase with a limited life count" ,
+                "technologies":"Javascript, Object Oriented Programming, CSS" ,
+                "live_link": "https://trrstnn.github.io/Dechipher-Game/",
+                "github_link": "https://github.com/trrstnn/Dechipher-Game",
+                "image_urls": ["/static/img/Project-1-landing.png","/static/img/Project-1-img1.png","/static/img/Project-1-img2.png","/static/img/Project-1-img3.png"]
+            },
+            {
+                "id" : 2,
+                "project_name": "Startup Employees" ,
+                "description": "Generates a directory of employees using data from an API source",
+                "technologies":"Javascript, API" ,
+                "live_link": "https://trrstnn.github.io/startup-employees/" ,
+                "github_link": "https://github.com/trrstnn/startup-employees" ,
+                "image_urls": ["/static/img/Project-2-landing.png","/static/img/Project-2-img1.png","/static/img/Project-2-img2.png"]
+            }
+        ]   
+    }
+}
