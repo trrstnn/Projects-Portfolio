@@ -148,3 +148,45 @@ a:hover{
 .portfolio-bio{
     line-height: 25px;
 }
+.desk{
+  
+  position: relative;
+  display:flex;
+  flex-direction: column;
+  font:white;
+  background-image:url("https://media.giphy.com/media/T4COazRlurxKM/giphy.gif");
+  background-repeat: no-repeat;
+  background-size:cover;
+  height:75rem;
+}
+.error-button {
+  
+  color:orange;
+  font-size:2rem;
+  padding:20px;
+  background-color:black;
+  border: 1px solid black;
+  border-radius: 10px;
+  
+}
+.error-title {
+  padding-left:4rem;
+  padding-right:4rem;
+  position:absolute;
+  color:white;
+  top: 40%;
+  margin: 0;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
+}
+.error-title h1{
+  font-family: 'Rock Salt', cursive;
+  font-size: 5rem;
+}
+.error-title p{
+  color:gray;
+  padding-top:20px;
+  padding-bottom:30px;
+}
+

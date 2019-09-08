@@ -4,15 +4,20 @@ const { data } = require('../data.json');
 const { projects } = data;
 
 router.get('/',(req,res) => {
-    res.render('index');
+    // const allProjects = projects.forEach(project => { return project;} )
+    res.render(`index`,{projects});
 });
+
 
 router.get('/about',(req,res) => {
     res.render('about');
 });
 
-router.get('/project',(req,res) => {
+router.get('/projects/:id', (req, res) => {
+    res.locals.project = projects[parseInt(req.params.id)];
     res.render('project');
 });
+
+
 
 module.exports = router;
