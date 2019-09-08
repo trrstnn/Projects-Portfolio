@@ -1,6 +1,6 @@
 # Projects-Portfolio
 
-[Check it out here!](https://trrstnn.github.io/Projects-Portfolio/)
+[Check it out here!](https://projects-portfoliov1.herokuapp.com/)
 
 ## A portfolio website utilizing Express and Node
 
