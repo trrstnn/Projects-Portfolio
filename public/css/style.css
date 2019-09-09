@@ -157,7 +157,8 @@ a:hover{
   background-image:url("https://media.giphy.com/media/T4COazRlurxKM/giphy.gif");
   background-repeat: no-repeat;
   background-size:cover;
-  height:75rem;
+  height:70rem;
+  width:100%;
 }
 .error-button {
   
