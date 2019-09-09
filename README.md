@@ -17,3 +17,6 @@
 
 ## Changes for Exceeds expecation: 
 - Custom Error Page(background, text, font)
+- Custom Font
+- Custom Project section
+

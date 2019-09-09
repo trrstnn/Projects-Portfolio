@@ -200,3 +200,10 @@ a:hover{
   font-family: 'Rock Salt', cursive;
   font-weight: bold;
 }
+.projectName{
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+.indexTitle {
+  font-family: 'Permanent Marker', cursive;
+
+}

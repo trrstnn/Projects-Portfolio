@@ -8,7 +8,7 @@
                 "technologies": ["HTML5", "CSS3", "Javascrript(ES6)", "Jquery", "Regular Expression(RegEx)"],
                 "live_link": "https://trrstnn.github.io/Interactive-Form/",
                 "github_link": "https://github.com/trrstnn/Interactive-Form" ,
-                "image_urls": ["/static/img/Project-3-landing.png","/static/img/Project-3-img1.png","/static/img/Project-3-img2.png"]
+                "image_urls": ["https://giphy.com/embed/W0cpMjmgpv70hwS7H6","/static/img/Project-3-img1.png","/static/img/Project-3-img2.png"]
             },
             {
                 "id" : 1,
@@ -17,7 +17,7 @@
                 "technologies":["Javascript", "Object Oriented Programming", "CSS"] ,
                 "live_link": "https://trrstnn.github.io/Dechipher-Game/",
                 "github_link": "https://github.com/trrstnn/Dechipher-Game",
-                "image_urls": ["/static/img/Project-1-landing.png","/static/img/Project-1-img3.png","/static/img/Project-1-img2.png","/static/img/Project-1-img3.png"]
+                "image_urls": ["https://giphy.com/embed/cmkUmyPyHjkOzkjlSm","/static/img/Project-1-img3.png","/static/img/Project-1-img2.png","/static/img/Project-1-img3.png"]
             },
             {
                 "id" : 2,
@@ -26,7 +26,7 @@
                 "technologies":["ES6", "JQuery","HTML5", "CSS", "API"] ,
                 "live_link": "https://trrstnn.github.io/startup-employees/" ,
                 "github_link": "https://github.com/trrstnn/startup-employees" ,
-                "image_urls": ["/static/img/Project-2-landing.png","/static/img/Project-2-img1.png","/static/img/Project-2-img2.png"]
+                "image_urls": ["https://giphy.com/embed/PkLQbh4SNJ7UeKh0ls","/static/img/Project-2-img1.png","/static/img/Project-2-img2.png"]
             }
         ]   
     }
