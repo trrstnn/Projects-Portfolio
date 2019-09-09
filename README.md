@@ -1,6 +1,6 @@
 # Projects-Portfolio
 
-[Check it out here!](https://projects-portfoliov1.herokuapp.com/)
+[Check it out here!](https://tristandc.herokuapp.com/)
 
 ## A portfolio website utilizing Express and Node
 
