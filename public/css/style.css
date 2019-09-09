@@ -191,3 +191,12 @@ a:hover{
   padding-bottom:30px;
 }
 
+.mainName{
+  font-family: 'Rock Salt', cursive;
+  font-size:15px;
+  font-weight: bold;
+}
+.aboutName{
+  font-family: 'Rock Salt', cursive;
+  font-weight: bold;
+}
