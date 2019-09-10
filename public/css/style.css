@@ -8,6 +8,7 @@ h1,h2,h3,h4,h5,p{
     letter-spacing: 2.5px;
     -webkit-text-transform: uppercase;
     text-transform: uppercase;
+    
   }
 
   h6{
@@ -28,6 +29,8 @@ h1,h2,h3,h4,h5,p{
 
 .text-light{
   color: #666;
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
 }
 
 .button{
@@ -58,20 +61,22 @@ a:hover{
 
 .portfolio-me{
   padding: 20px;
-  background: #121213;
+  background: orange;
   color: #fff;
   box-shadow: none !important;
 }
 
   .portfolio-me p{
     font-size: 14px;
-    color: #999;
+    color: black;
+    font-family: 'Archivo Black', sans-serif;
+
   }
 
   .portfolio-me a{
     font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-weight: 600;
-    color: #555;
+    color: black;
     font-size: 13px;
     letter-spacing: 2.5px;
     -webkit-text-transform: uppercase;
@@ -147,6 +152,11 @@ a:hover{
 
 .portfolio-bio{
     line-height: 25px;
+
+}
+.portfolio-bio p{
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
 }
 .desk{
   
@@ -192,9 +202,10 @@ a:hover{
 }
 
 .mainName{
-  font-family: 'Rock Salt', cursive;
-  font-size:15px;
-  font-weight: bold;
+  font-family: 'Archivo Black', sans-serif;
+  font-size:30px;
+  font-weight:bold;
+  color:black;
 }
 .aboutName{
   font-family: 'Rock Salt', cursive;
